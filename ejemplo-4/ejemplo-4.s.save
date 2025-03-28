@@ -1,0 +1,14 @@
+#ejemplo de una funcion hecha en assembly
+
+
+.text
+.global sumar
+.global restar
+
+sumar:
+
+
+
+restar:
+
+
